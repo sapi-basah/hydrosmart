@@ -22,6 +22,7 @@ export default function RootLayout({
     return (
         <html lang="id" className="scroll-smooth">
             <head>
+                {/* Google Analytics */}
                 <Script
                     src="https://www.googletagmanager.com/gtag/js?id=G-KJGP9TFGV5"
                     strategy="afterInteractive"
